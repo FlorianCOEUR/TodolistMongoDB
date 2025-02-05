@@ -1,0 +1,22 @@
+[
+  { "nom": "Acheter du lait", "statut": 1 },
+  { "nom": "Réviser le cours de MongoDB", "statut": 1 },
+  { "nom": "Envoyer l'email au client", "statut": 1 },
+  { "nom": "Faire du sport", "statut": 1 },
+  { "nom": "Préparer la réunion de demain", "statut": 1 },
+  { "nom": "Payer les factures", "statut": 1 },
+  { "nom": "Réserver un restaurant", "statut": 1 },
+  { "nom": "Organiser les fichiers de travail", "statut": 1 },
+  { "nom": "Appeler le support technique", "statut": 1 },
+  { "nom": "Acheter un cadeau d'anniversaire", "statut": 1 },
+  { "nom": "Mettre à jour le site web", "statut": 1 },
+  { "nom": "Faire le ménage", "statut": 1 },
+  { "nom": "Regarder un tutoriel MongoDB", "statut": 1 },
+  { "nom": "Répondre aux emails", "statut": 1 },
+  { "nom": "Planifier les vacances", "statut": 1 },
+  { "nom": "Aller à la poste", "statut": 1 },
+  { "nom": "Préparer la présentation", "statut": 1 },
+  { "nom": "Réparer la chaise cassée", "statut": 1 },
+  { "nom": "Apprendre une nouvelle recette", "statut": 1 },
+  { "nom": "Mise à jour du logiciel", "statut": 1 }
+]
